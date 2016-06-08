@@ -30,3 +30,4 @@ D:\MyDATA\sandbox\git\AzureInputValidationTest\AzureInputValidationTest\AzureInp
 D:\MyDATA\sandbox\git\AzureInputValidationTest\AzureInputValidationTest\AzureInputValidationTest\bin\System.Web.Mvc.xml
 D:\MyDATA\sandbox\git\AzureInputValidationTest\AzureInputValidationTest\AzureInputValidationTest\obj\Debug\AzureInputValidationTest.dll
 D:\MyDATA\sandbox\git\AzureInputValidationTest\AzureInputValidationTest\AzureInputValidationTest\obj\Debug\AzureInputValidationTest.pdb
+D:\MyDATA\sandbox\git\AzureInputValidationTest\AzureInputValidationTest\AzureInputValidationTest\obj\Debug\AzureInputValidationTest.csprojResolveAssemblyReference.cache
