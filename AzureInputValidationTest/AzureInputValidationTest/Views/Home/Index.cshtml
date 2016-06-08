@@ -1,0 +1,33 @@
+﻿@model dynamic
+
+@{
+	ViewBag.Title = "title";
+	var myInputValue = ViewBag.MyInputValue;
+}
+
+<h2>Azure imput validation test v 1.4</h2>
+submited value = @myInputValue
+
+<form>
+	<input type="text" name="myInput"/>
+	<input type="submit" value="submit" class="btn btn-default"/>
+</form>
+
+By trying submit: <strong>' or 1=1</strong> azure server fall into request timeout.
+How could I switch that off?.
+
+<br />
+<br />
+<br />
+
+I've tried so far:
+<br/>
+<br />
+
+1. [ValidateInput(false)] attribute over Controller's action.
+<br />
+2. pages validateRequest="false" in web.config
+<br />
+3. requestValidationMode="2.0" in web.config
+<br/>
+4. ClientValidationEnabled = false in web.config appSettings
